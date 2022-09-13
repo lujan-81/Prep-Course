@@ -1,0 +1,6 @@
+Variable :Es un forma de almacenar un valor que luego puedes utilizar .existen 3 tipos de variables :var.,led. y const.
+Strings : Es tipo de dato en forma de texto o no  que se escribe entre comillas.
+Funciones :argumentos:Son los datos que pasamos entre paréntesis a una función.
+Return:Es la forma de devolver lo que salga de una función.
+Declaraciones `if`:Es una forma de que una función verifique si algo es `true`, ejecutando el código suministrado si es así o avanzando si no lo es. 
+Valores booleanos (`true`, `false`): Esencialmente significa que tiene dos opciones ,dos valores, activar,  verdadero o falso.

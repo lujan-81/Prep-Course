@@ -1,0 +1,1 @@
+ Arrays: Es una lista de elementos ordenados ,la cual se separa por coma y se guarda entre corchete.
